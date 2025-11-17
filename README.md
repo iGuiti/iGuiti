@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Guilherme</h1>
 <h3 align="center">Entusiasta de tecnologia e apaixonado pela área de dados</h3>
 
-- 🔭 Projeto atual em andamento: **UI em Python integrada com SGBD (PostGree)**
+- 🔭 Projeto atual em andamento: **Game Mountain Shooter**
 
 - 🌱 Meu foco acadêmico é na área de dados e suas ferramentas: **SQL, NoSQL, Python, Power BI, Modelagem**
 
